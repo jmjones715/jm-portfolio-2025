@@ -1,3 +1,4 @@
 markdown: redcarpet
 baseurl: /jm-portfolio-2025
 exclude: ['README.md']
+permalink: pretty
